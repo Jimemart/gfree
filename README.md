@@ -8,6 +8,5 @@ Bootcamp at Ironhack. Its development lasted seven days. The technologies used i
 Express, MongoDB and Node.js</p>
 
 <p>This project was developed in colaboration with <a href="https://github.com/alvar8">Álvar Fernandez</a></p>
-<p>* Please be aware that in order to be able to sign up you need to upload a picture. If not the app will crash</p>
-<p>** If you'd rather not sign up you can use: user: trial, password: 11</p>
+
 <img src="http://gfree.herokuapp.com/images/Mapa.png" height="500"> <img src="http://gfree.herokuapp.com/images/Productos.png" height="500"> <img src="http://gfree.herokuapp.com/images/Traduccion.png" height="500">
